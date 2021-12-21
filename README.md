@@ -1,0 +1,2 @@
+# R5T.T0111.X0001
+Library generator related extension method base extensions.
